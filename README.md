@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me: sarioglancgty@outlook.com
-- 🌱 I’m currently learning #E34F26
+- 🌱 I’m currently learning HTML5,CSS,JavaScript
 <!--
 **cagataysar/cagataysar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
