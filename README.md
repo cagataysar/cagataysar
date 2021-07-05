@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🌱 I’m currently learning HTML5,CSS,JavaScript
 
