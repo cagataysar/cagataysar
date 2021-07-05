@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cagataysarioglan/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cagataysarioglan" height="30" width="30" /></a>
-<a href="https://twitter.com/cagataysrgln" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="cagataysarioglan" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/cagataysarioglan/" target="_blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="cagataysarioglan" height="30" width="30" /></a>
+<a href="https://twitter.com/cagataysrgln" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="cagataysarioglan" height="30" width="30" /></a>
 
 
   
