@@ -1,6 +1,6 @@
 ### Hi Jack. Bye Jack.
 
-- 🌱 I’m currently learning HTML5,CSS,JavaScript
+#- 🌱 I’m currently learning HTML5,CSS,JavaScript
 
 - 📫 How to reach me: sarioglancgty@outlook.com
 
