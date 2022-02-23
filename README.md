@@ -1,10 +1,11 @@
 ### Hi Jack. Bye Jack.
 
 <!--
-- 🌱 I’m currently learning HTML5,CSS,JavaScript
 -->
 
 - 📫 How to reach me: sarioglancgty@outlook.com
+- 🌱 I’m currently learning Kotlin
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
