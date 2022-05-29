@@ -5,7 +5,7 @@
 -->
 
 - 📫 How to reach me: sarioglancgty@outlook.com
-- 🌱 I’m currently learning <b>Kotlin</b>
+- 🌱 I’m currently learning <b>Java</b>
 
 
 <h3 align="left">Connect with me:</h3>
