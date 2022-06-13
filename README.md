@@ -17,7 +17,7 @@
   
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
-<a href="https://git-scm.com/" target="_blank"> <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709](https://www.vectorlogo.zone/logos/java/java-icon.svg)" alt="java" width="30" height="30"/> </a>  
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/> </a>  
 <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709" alt="kotlin" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png?20210301045217" alt="android" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
