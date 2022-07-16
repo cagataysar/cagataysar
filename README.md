@@ -27,6 +27,7 @@
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.android.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png?20210301045217" alt="android" width="30" height="30"/> </a>
+<a href="https://www.android.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="android" width="30" height="30"/> </a>
 
   
 <!-- <h3 align="left">Tools:</h3>
