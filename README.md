@@ -17,7 +17,9 @@
   
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
-<a href="https://www.oracle.com/java/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/> </a>  
+<a href="https://www.oracle.com/java/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/> </a> 
+<a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSql" width="30" height="30"/> </a>  
+<a href="https://spring.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" width="30" height="30"/> </a>  
 <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png?20171012085709" alt="kotlin" width="30" height="30"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
