@@ -34,7 +34,7 @@
 <a href="https://www.android.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="android" width="30" height="30"/> </a>
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagataysar&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagataysar&date_format=M%20j%5B%2C%20Y%5D)](https:https://github.com/cagataysar?tab=repositories)
 
 
 <!-- <h3 align="left">Tools:</h3>
