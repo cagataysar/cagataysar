@@ -35,6 +35,9 @@
 
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagataysar&date_format=M%20j%5B%2C%20Y%5D)](https:https://github.com/cagataysar?tab=repositories)
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
+
 
 
 <!-- <h3 align="left">Tools:</h3>
