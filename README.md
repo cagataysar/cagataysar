@@ -1,6 +1,5 @@
 ###
 <h2 align="center">Hi Jack. Bye Jack.</h2>
-<h2 align="center">Rome was not built in a day.</h2>
 
 <!--
 -->
@@ -46,6 +45,8 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
 <a href="https://discord.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://slack.com/intl/en-tr/" target="_blank"> <img src="https://cdn.brandfolder.io/5H442O3W/as/pl546j-7le8zk-4nzzs1/Slack_Mark_Web.png" alt="slack" width="37" height="37"/> </a> -->
+
+  <h2 align="center">Rome was not built in a day.</h2>
 
 <!--
 **cagataysar/cagataysar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
