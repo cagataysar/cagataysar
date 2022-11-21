@@ -5,8 +5,7 @@
 -->
 
 - 📫 How to reach me: sarioglancgty@outlook.com
-- 🌱 I’m currently learning <b>Java</b><b>,Spring</b><b>,Spring Boot.
-
+- 🌱 I’m currently learning <b>Java</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
