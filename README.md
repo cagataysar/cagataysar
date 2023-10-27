@@ -41,7 +41,7 @@
 
 
   
-[align="center"![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagataysar&date_format=M%20j%5B%2C%20Y%5D)](https:https://github.com/cagataysar?tab=repositories)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagataysar&date_format=M%20j%5B%2C%20Y%5D)](https:https://github.com/cagataysar?tab=repositories)
   
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcagataysar%2Fcagataysar&countColor=%23263759)
