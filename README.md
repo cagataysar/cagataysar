@@ -27,20 +27,21 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
 
+<!--
 <h3 align="left">Tools:</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="git" width="30" height="30"/> </a>
 <a href="https://www.android.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png?20210301045217" alt="android" width="30" height="30"/> </a>
 <a href="https://www.android.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="android" width="30" height="30"/> </a>
-
+-->
   
 
 
 
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagataysar&date_format=M%20j%5B%2C%20Y%5D)](https:https://github.com/cagataysar?tab=repositories)
+<align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagataysar&date_format=M%20j%5B%2C%20Y%5D)](https:https://github.com/cagataysar?tab=repositories)
   
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcagataysar%2Fcagataysar&countColor=%23263759)
