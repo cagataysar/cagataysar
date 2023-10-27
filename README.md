@@ -36,7 +36,7 @@
 
   
 
-<h2 align="center">Simplicity is the ultimate sophistication.</h2>
+
 
 
   
@@ -54,7 +54,9 @@
 
 <!--<h2 align="center">Try not. DO or DO NOT. There is no try.</h2>-->
 
-<h2 align="center">Rome was not built in a day.</h2>
+<h2 align="center">Simplicity is the ultimate sophistication.</h2>
+
+<!--<h2 align="center">Rome was not built in a day.</h2>-->
 
 <!--
 **cagataysar/cagataysar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
