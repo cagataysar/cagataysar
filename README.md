@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: sarioglancgty@outlook.com
 - 🌱 I’m currently learning <b>Java</b> and <b>Spring Framework</b>
-- 🌱 Projects I am working on individually <b>Taco Cloud App</b> <a href="https://github.com/cagataysar/TacoCloudApplication">Here!</a>
+- ⚡ Projects I am working on individually <b>Taco Cloud App</b> <a href="https://github.com/cagataysar/TacoCloudApplication">Here!</a>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,9 +26,6 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
 <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSql" width="30" height="30"/> </a>  
-
-<h3 >Projects I am working on individually:</h3>
-- Taco Cloud App. <a href="https://github.com/cagataysar/TacoCloudApplication">Here!</a>
   
 <!--
 <h3 align="left">Tools:</h3>
