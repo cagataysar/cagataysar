@@ -44,10 +44,10 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cagataysar&date_format=M%20j%5B%2C%20Y%5D)](https:https://github.com/cagataysar?tab=repositories)
   
-</h3>
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcagataysar%2Fcagataysar&countColor=%23263759)
 
-
+</h3>
 
 <!-- <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="30" height="30"/> </a>
