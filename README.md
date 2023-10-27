@@ -6,6 +6,7 @@
 
 - 📫 How to reach me: sarioglancgty@outlook.com
 - 🌱 I’m currently learning <b>Java</b> and <b>Spring Framework</b>
+- 🌱 Projects I am working on individually <b>Taco Cloud App</b> <a href="https://github.com/cagataysar/TacoCloudApplication">Here!</a>
 
 
 <h3 align="left">Connect with me:</h3>
