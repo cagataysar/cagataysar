@@ -8,10 +8,9 @@
 - 🌱 I’m currently learning <b>Java</b> and <b>Spring Framework</b>
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cagataysarioglan/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-160-461814.png?f=webp&w=256
+<a href="https://www.linkedin.com/in/cagataysarioglan/" target="_blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg
 " alt="cagataysarioglan" height="30" width="30" /></a>
 <a href="https://twitter.com/cagataysrgln" target="_blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="cagataysarioglan" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/16576600/cagataysar" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="cagataysarioglan" height="30" width="30" /></a>  
