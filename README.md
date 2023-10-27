@@ -27,7 +27,7 @@
 <a href="https://www.postgresql.org/docs/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgreSql" width="30" height="30"/> </a>  
 
 <h3 >Projects I am working on individually:</h3>
-- Taco Cloud App
+- Taco Cloud App. <a href="https://github.com/cagataysar/TacoCloudApplication">Here!</a>
   
 <!--
 <h3 align="left">Tools:</h3>
